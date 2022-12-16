@@ -1,6 +1,8 @@
 SURFACE_ASOS_108_HR_2021_2021_2022.csv : 날씨 원본 데이터      
 SURFACE_ASOS_108_HR_2021_2021_2022_1.csv : 전처리 후 날씨 데이터
 
+seodaemunAndmapo.zip : 전처리 마친 최종 데이터
+
 대여소정보_이용정보(시간대별).zip : 따릉이 대여소정보 + 이용정보(시간대별) (서대문구&마포구) 데이터
 
-seodaemunAndmapo.zip : 전처리 마친 최종 데이터
+
